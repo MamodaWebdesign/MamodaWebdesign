@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+### This is the repo for Mamoda webdesign. This profile is for the templates of our webdesign agency. For more info call 0318 ****** or email to info@mamoda.nl. We are located in the Netherlands.
+
 
 <!--
 **MamodaWebdesign/MamodaWebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
