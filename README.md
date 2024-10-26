@@ -8,9 +8,17 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,php,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,figma" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
+  </a>
+</p>
+
+
 
 <!--
 **MamodaWebdesign/MamodaWebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
