@@ -8,13 +8,14 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,php,figma" />
+    
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions" />
   </a>
 </p>
 
