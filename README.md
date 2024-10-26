@@ -9,7 +9,6 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bootstrap,php,sqlite,wordpress,figma,photoshop" />
-    
   </a>
 </p>
 
@@ -19,6 +18,10 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
   </a>
 </p>
 
+
+<p align="center">
+  <button href="https://mamoda.nl">see more on our website</button>
+</p>
 
 
 <!--
