@@ -20,7 +20,7 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 
 
 <p align="center">
-  <button href="https://mamoda.nl">see more on our website</button>
+  [See more on our website](mamoda.nl)
 </p>
 
 
