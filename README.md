@@ -1,5 +1,12 @@
 ## Hi 👋
-### This is the repo for Mamoda webdesign. This profile is for the templates of our webdesign agency. For more info call 0318 ****** or email to info@mamoda.nl. We are located in the Netherlands.
+### This is the repo for Mamoda webdesign. This profile is for the templates of our webdesign agency. For more info call 0318 ****** or email to info@mamoda.nl. 
+### We are located in the Netherlands.
+
+
+We have a team of 4 people and like to share our expertise with you guys!
+We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much more!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!--
