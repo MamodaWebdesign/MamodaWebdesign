@@ -6,8 +6,11 @@
 We have a team of 4 people and like to share our expertise with you guys!
 We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much more!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,figma)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,php,figma" />
+  </a>
+</p>
 
 <!--
 **MamodaWebdesign/MamodaWebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
