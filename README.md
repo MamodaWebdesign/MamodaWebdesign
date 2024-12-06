@@ -1,3 +1,6 @@
+[English](#tab-1) | [Nederlands](#tab-2)
+
+## English
 ## Hi 👋
 ### This is the repo for Mamoda webdesign. This profile is for the templates of our webdesign agency. For more info call 0318 ****** or email to info@mamoda.nl. 
 ### We are located in the Netherlands.
@@ -25,9 +28,8 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 
 
 
-
-
-
+## Nederlands
+Inhoud van Tab 2
 
 
 
