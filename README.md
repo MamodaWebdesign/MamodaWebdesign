@@ -1,4 +1,4 @@
-[English](#tab-1) | [Nederlands](#tab-2)
+[English](#english) | [Nederlands](#nederlands)
 
 ## English
 ## Hi 👋
@@ -29,7 +29,29 @@ We work with Wordpress and our own templates. We use HTML, CSS, PHP, JS and much
 
 
 ## Nederlands
-Inhoud van Tab 2
+## Hi 👋
+### Dit is de repository van Mamoda Webdesign. Dit profiel is voor onze templates van onze webdesign bedrijf. Voor meer informatie kan je ons bereiken via het telefoonnummer 0318 745 133 of email naar info@mamoda.nl.
+### Ons bedrijf is in Nederland. 
+
+We hebben een team van 4 mensen willen graag onze expertise delen met jullie mensen. Neem contact met ons op!
+We werken met Wordpress en onze eigen templates. We gebruiken HTML, CSS, PHP, JS en veel meer!
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bootstrap,php,sqlite,wordpress,figma,photoshop" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://mamoda.nl/" target="_blank">Kijk op onze website</a>
+</p>
 
 
 
